@@ -1,0 +1,14 @@
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/controller/UserController.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/controller/abstracts/AbstractsController.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/controller/RegisterController.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/controller/LoginController.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/database/ConnectionDB.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/Main.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/model/User.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/utils/NavigationManager.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/config/ConfigManager.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/controller/UsersListController.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/module-info.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/controller/RememberPasswordController.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/controller/GameController.java
+/home/adrianssd/Escritorio/ahorcado/ahorcado/src/main/java/es/adrianroguez/model/PalabrasAhorcado.java

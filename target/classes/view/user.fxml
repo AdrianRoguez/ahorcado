@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<StackPane xmlns="http://javafx.com/javafx/21"
+    xmlns:fx="http://javafx.com/fxml/1"
+    fx:controller="es.adrianroguez.controller.UserController"
+    prefWidth="600.0" prefHeight="400.0"
+    alignment="CENTER">
+
+    <VBox alignment="CENTER" spacing="10">
+        <children>
+            <Text fx:id="userTitle" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+
+            <Text fx:id="userText" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+            <Label fx:id="userInfo" maxWidth="250" alignment="CENTER"
+                style="-fx-alignment: center; -fx-text-alignment: center;" />
+
+            <Text fx:id="emailText" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+            <Label fx:id="emailInfo" maxWidth="250" alignment="CENTER"
+                style="-fx-alignment: center; -fx-text-alignment: center;" />
+
+            <Text fx:id="levelText" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+            <Label fx:id="levelInfo" maxWidth="250" alignment="CENTER"
+                style="-fx-alignment: center; -fx-text-alignment: center;" />
+
+            <Button fx:id="editButton" onAction="#openEdit" mnemonicParsing="false" text="Button" />
+
+            <Button fx:id="playButton" onAction="#openGame" mnemonicParsing="false" text="Button" />
+
+            <Button fx:id="goBackButton" onAction="#goBack" mnemonicParsing="false" text="Button" />
+        </children>
+    </VBox>
+</StackPane>
